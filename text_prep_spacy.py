@@ -29,3 +29,5 @@ for  word in doc.text:
 # apply lemmatization and placing the words side by side
 for token in doc:
   print(token.text, '|', token.lemma_)
+  
+# Let's move to the next topic
