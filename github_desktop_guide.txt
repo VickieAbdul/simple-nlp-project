@@ -40,34 +40,28 @@ GitHub Desktop Installation Guide & Usage
 
 SOME BASICS YOU SHOULD REMEMBER:
 
-Cloning: Downloading a copy of a repo from GitHub to your computer.
+1. Cloning: Downloading a copy of a repo from GitHub to your computer.
 
-Pull Origin (Getting Updates):
+2. Pull Origin (Getting Updates):
+- This is how you bring the latest changes from GitHub to your computer.
+- Always click "Fetch Origin" first to see if anything new has been added online.
+- If there’s something new, click "Pull Origin" to download those changes.
 
-This is how you bring the latest changes from GitHub to your computer.
-Always click "Fetch Origin" first to see if anything new has been added online.
-If there’s something new, click "Pull Origin" to download those changes.
+3. Push Origin (Uploading Your Work):
+- After making changes on your computer, you need to commit them.
+- Then, click "Push Origin" to upload your changes to GitHub.
 
-Push Origin (Uploading Your Work):
+4. Branch Creation (Creating a separate line of work (branch)):
+- This is done so that you can make changes without affecting the main repo. 
+- Make sure you switch to the branch before making changes.
 
-After making changes on your computer, you need to commit them.
-Then, click "Push Origin" to upload your changes to GitHub.
+5. Pull Request (Asking for Review):
+- When you finish working on a branch, you create a Pull Request.
+- This is basically asking your supervisor to review your work before adding it to the main project.
 
-Branch Creation (Creating a separate line of work (branch)):
+6. Refresh Origin (Stay Updated):
+- Always Fetch Origin before you start working to make sure you have the latest version.
 
-This is done so that you can make changes without affecting the main repo. 
-Make sure you switch to the branch before making changes.
-
-Pull Request (Asking for Review):
-
-When you finish working on a branch, you create a Pull Request.
-This is basically asking your supervisor to review your work before adding it to the main project.
-
-Refresh Origin (Stay Updated):
-
-Always Fetch Origin before you start working to make sure you have the latest version.
-Check History (Who Did What):
-
-
-You can check the history to see all changes and who made them..
+7. Check History (Who Did What):
+- You can check the history to see all changes and who made them..
 
