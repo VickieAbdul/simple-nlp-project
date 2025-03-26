@@ -38,21 +38,21 @@ GitHub Desktop Installation Guide & Usage
    - Click 'History' to see the list of previous commits and their details.
 
 
-SOME BASICS YOU SHOULD REMEMBER:
+## SOME BASICS YOU SHOULD REMEMBER:
 
 1. Cloning: Downloading a copy of a repo from GitHub to your computer.
 
 2. Pull Origin (Getting Updates):
 - This is how you bring the latest changes from GitHub to your computer.
 - Always click "Fetch Origin" first to see if anything new has been added online.
-- If there’s something new, click "Pull Origin" to download those changes.
+- If there’s something new, click "Pull Origin" to download those changes into your computer.
 
 3. Push Origin (Uploading Your Work):
-- After making changes on your computer, you need to commit them.
+- After making changes on your computer, you need to commit (save) them.
 - Then, click "Push Origin" to upload your changes to GitHub.
 
 4. Branch Creation (Creating a separate line of work (branch)):
-- This is done so that you can make changes without affecting the main repo. 
+- This is done so that you can make changes to your work without affecting the main repo. 
 - Make sure you switch to the branch before making changes.
 
 5. Pull Request (Asking for Review):
@@ -61,7 +61,8 @@ SOME BASICS YOU SHOULD REMEMBER:
 
 6. Refresh Origin (Stay Updated):
 - Always Fetch Origin before you start working to make sure you have the latest version.
+- If there is any new version of work, you 'pull origin' to get it into your computer.
 
 7. Check History (Who Did What):
-- You can check the history to see all changes and who made them..
+- You can check the history to see all changes and who made them.
 
